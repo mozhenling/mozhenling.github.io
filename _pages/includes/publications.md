@@ -1,7 +1,7 @@
 
 # 📄 Selected Papers
 
-More papers are shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=RsGM6Z0AAAAJ).
+More papers are shown on [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=RsGM6Z0AAAAJ).
 
 The **Boldface&Upright text** indicates me, 
 while the superscript * indicates corresponding author(s).

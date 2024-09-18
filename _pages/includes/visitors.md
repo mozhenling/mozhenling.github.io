@@ -1,6 +1,5 @@
 
-# ✨ Visitors
----
-<a href='https://clustrmaps.com/site/1btv3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=m205bLiFrUphe-xRqsWMcKXt02JYHpDCGfwMip5D3Xc'/></a>
----
+# 🌍 Visitors
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=m205bLiFrUphe-xRqsWMcKXt02JYHpDCGfwMip5D3Xc'></script>
 
