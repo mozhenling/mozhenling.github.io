@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update cv'
+git commit . -m 'update emoji'
 
 git push origin master
 
