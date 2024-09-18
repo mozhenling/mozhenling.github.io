@@ -328,12 +328,12 @@
 
 .btn {
   display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 5px 10px;
+  font-size: 8px;
   color: #fff;
   background-color: #007bff;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 2.5px;
   transition: background-color 0.3s ease;
 }
 
