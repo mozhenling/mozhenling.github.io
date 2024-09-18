@@ -1,0 +1,20 @@
+current directory: C:/Users/MSI-NB/Desktop/mozhenling.github.io-main/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+D:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: C:/Users/MSI-NB/Desktop/mozhenling.github.io-main/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240917-8316-dg2vps sitelibdir\=./.gem.20240917-8316-dg2vps clean
+
+current directory: C:/Users/MSI-NB/Desktop/mozhenling.github.io-main/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240917-8316-dg2vps sitelibdir\=./.gem.20240917-8316-dg2vps
+generating unf_ext-x64-mingw-ucrt.def
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: C:/Users/MSI-NB/Desktop/mozhenling.github.io-main/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240917-8316-dg2vps sitelibdir\=./.gem.20240917-8316-dg2vps install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20240917-8316-dg2vps
+
+current directory: C:/Users/MSI-NB/Desktop/mozhenling.github.io-main/vendor/cache/ruby/3.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240917-8316-dg2vps sitelibdir\=./.gem.20240917-8316-dg2vps clean
