@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-<p>Updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</p>
+<p style="font-size: 0.8em; font-style: italic;">Updated: {{ page.last_modified_at | date: "%d %B %Y" }}</p>
 
 {% include_relative includes/intro.md %}
 
