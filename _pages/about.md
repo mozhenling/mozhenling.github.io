@@ -29,3 +29,5 @@ redirect_from:
 
 {% include_relative includes/download.md %}
 
+{% include_relative includes/visitors.md %}
+
