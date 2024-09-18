@@ -1,7 +1,7 @@
 
 # ⬇ Download CV
 
-[Download CV](files/CV.pdf){: .btn .btn-primary } *(Update:09.2024)*
+[Download CV](files/CV.pdf){: .btn .btn-primary } *(Updated:09.2024)*
 
 
 
