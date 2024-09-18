@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update Last Modified Date
+      - name: Set up Git
         run: |
           git config --global user.email "zhenling_mo@qq.com"
           git config --global user.name "mozhenling"
+      - name: Update Last Modified Date
+        run: |
           for file in $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}); do
             if [[ $file == *.md ]]; then
               sed -i "s/last_modified_at:.*/last_modified_at: $(date '+%d %B %Y')/" $file
               git add $file
             fi
           done
-          git commit -m "Update last modified dates"
-          git push
+          git commit -m "Update last modified dates" || echo "No changes to commit"
+          git push || echo "No changes to push"
