@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'delete gs update'
+git commit . -m 'update cv'
 
 git push origin master
 
