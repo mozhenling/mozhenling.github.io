@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update map'
+git commit . -m 'update lastmod'
 
 git push origin master
 
