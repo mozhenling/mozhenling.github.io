@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update download'
+git commit . -m 'update intro'
 
 git push origin master
 
