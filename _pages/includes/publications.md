@@ -1,7 +1,8 @@
 
 # 📄 Selected Papers
 
-More papers are shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=RsGM6Z0AAAAJ).
+More papers are shown at [my Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=RsGM6Z0AAAAJ)
+ <a href='https://scholar.google.com/citations?user=RsGM6Z0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fmozhenling.github.io%2Fscholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 The **Boldface&Upright text** indicates me, 
 while the superscript * indicates corresponding author(s).
