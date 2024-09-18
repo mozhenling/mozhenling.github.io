@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% last_modified_at %}
-
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
