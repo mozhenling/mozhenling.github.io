@@ -21,7 +21,6 @@ layout: compress
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
-            <p style="font-size: 0.8em; font-style: italic;">Updated: {{ page.last_modified_at | date: "%d %B %Y" }}</p>
             {{ content }}
           </section>
         </div>
