@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update emoji'
+git commit . -m 'update clustermap'
 
 git push origin master
 
