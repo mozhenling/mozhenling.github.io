@@ -11,7 +11,6 @@ redirect_from:
 
 <p style="font-size: 0.8em; font-style: italic;">Updated: {{ page.last_modified_at | date: "%d %B %Y" }}</p>
 
-
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
