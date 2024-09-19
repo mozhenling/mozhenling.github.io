@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update lastmod'
+git commit . -m 'update bib'
 
 git push origin master
 
