@@ -16,12 +16,15 @@ jobs:
           git config --global user.name "mozhenling"
       - name: Update Last Modified Date
         run: |
+          echo "Checking modified files..."
           for file in $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}); do
+            echo "Processing $file"
             if [[ $file == *.md ]]; then
-              # Check if the file has a last_modified_at field
               if grep -q '^last_modified_at:' "$file"; then
+                echo "Updating last_modified_at in $file"
                 sed -i 's/^last_modified_at:.*/last_modified_at: '"$(date '+%d %B %Y')"'/' "$file"
               else
+                echo "Adding last_modified_at to $file"
                 sed -i '2i last_modified_at: '"$(date '+%d %B %Y')"'\'$'\n' "$file"
               fi
               git add "$file"
