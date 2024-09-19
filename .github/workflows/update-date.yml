@@ -22,10 +22,10 @@ jobs:
             if [[ $file == *.md ]]; then
               if grep -q '^last_modified_at:' "$file"; then
                 echo "Updating last_modified_at in $file"
-                sed -i 's/^last_modified_at:.*/last_modified_at: '"$(date '+%d %B %Y')"'/' "$file"
+                sed -i 's/^last_modified_at:.*/last_modified_at: '"$(date '+%d %b %Y')"'/' "$file"
               else
                 echo "Adding last_modified_at to $file"
-                sed -i '2i last_modified_at: '"$(date '+%d %B %Y')"'\'$'\n' "$file"
+                sed -i '2i last_modified_at: '"$(date '+%d %b %Y')"'\'$'\n' "$file"
               fi
               git add "$file"
             fi
