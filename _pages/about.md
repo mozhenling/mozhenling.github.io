@@ -6,11 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-last_modified_at: 15 Sep. 2023
+last_modified_at: 15 Sep 2023
 ---
 <span class='anchor' id='about-me'></span>
-
-<p style="font-size: 0.8em; font-style: italic;">Updated: {{ page.last_modified_at | date: "%d %b %Y" }}</p>
 
 {% include_relative includes/intro.md %}
 
@@ -33,4 +31,6 @@ last_modified_at: 15 Sep. 2023
 {% include_relative includes/download.md %}
 
 {% include_relative includes/visitors.md %}
+
+<p style="font-size: 0.8em; font-style: italic;">Updated: {{ page.last_modified_at | date: "%d %b %Y" }}</p>
 
