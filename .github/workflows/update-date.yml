@@ -18,9 +18,13 @@ jobs:
         run: |
           for file in $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}); do
             if [[ $file == *.md ]]; then
-              # Use single quotes around the sed command to prevent premature evaluation
-              sed -i 's/last_modified_at:.*/last_modified_at: '"$(date '+%d %B %Y')"'/' $file
-              git add $file
+              # Check if the file has a last_modified_at field
+              if grep -q '^last_modified_at:' "$file"; then
+                sed -i 's/^last_modified_at:.*/last_modified_at: '"$(date '+%d %B %Y')"'/' "$file"
+              else
+                sed -i '2i last_modified_at: '"$(date '+%d %B %Y')"'\'$'\n' "$file"
+              fi
+              git add "$file"
             fi
           done
           git commit -m "Update last modified dates" || echo "No changes to commit"
