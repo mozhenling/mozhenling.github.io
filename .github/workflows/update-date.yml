@@ -15,14 +15,14 @@ jobs:
       - name: Set Last Modified Date
         run: |
           FILE="./_pages/about.md"
-          DATE=$(date +"%d %b %Y")
+          DATE=$(LC_TIME="en_US.UTF-8" date +"%d %b %Y")
           echo "DATE is $DATE"
           sed -i "s/last_modified_at: .*/last_modified_at: $DATE/" $FILE
 
       - name: Commit and Pull, then Push Changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "mozhenling"
+          git config user.email "zhenling_mo@qq.com"
           git add ./_pages/about.md
           git commit -m "Update last_modified_at date"
           git pull --rebase origin master
