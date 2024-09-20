@@ -16,6 +16,7 @@ jobs:
         run: |
           FILE="./_pages/about.md"
           DATE=$(date +"%d %b %Y")
+          echo "DATE is $DATE"
           sed -i "s/last_modified_at: .*/last_modified_at: $DATE/" $FILE
 
       - name: Commit and Push Changes
