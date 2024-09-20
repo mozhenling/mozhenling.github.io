@@ -34,5 +34,5 @@ last_modified_at: 20 Sep 2024
 
 ---
 
-<p style="font-size: 0.8em; font-style: italic;">Page Last Updated: {{ page.last_modified_at | date: "%d %b %Y" }}</p>
+<p style="font-size: 0.8em; font-style: italic;">Last Modified Date: {{ page.last_modified_at | date: "%d %b %Y" }}</p>
 
