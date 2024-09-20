@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and Pull, then Push Changes
         run: |
-          git config user.name "mozhenling"
-          git config user.email "zhenling_mo@qq.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add ./_pages/about.md
           git commit -m "Update last_modified_at date"
           git pull --rebase origin master
