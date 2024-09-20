@@ -19,12 +19,13 @@ jobs:
           echo "DATE is $DATE"
           sed -i "s/last_modified_at: .*/last_modified_at: $DATE/" $FILE
 
-      - name: Commit and Push Changes
+      - name: Commit and Pull, then Push Changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add ./_pages/about.md
           git commit -m "Update last_modified_at date"
+          git pull --rebase origin master
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
