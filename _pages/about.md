@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-last_modified_at: 15 Sep 2023
+last_modified_at: 21 Sep 2023
 ---
 <span class='anchor' id='about-me'></span>
 
