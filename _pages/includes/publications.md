@@ -16,10 +16,7 @@ while the superscript * indicates corresponding author(s).
 - **Z. Mo**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "When Will Empirical Risk Minimization Succeed
    at Domain Generalization? A Study from Causal View", submitted 
    to  **_IEEE Transactions on Multimedia_**.
-- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “A Multi-Task 
-  Pointwise Mutual Information Learning Method for Bearing
-  Remaining Useful Life Predictions Facing Data Domain Shift and 
-  Imbalance,” submitted to **_IEEE Transactions on Industrial Informatics_**.
+- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “xxx,” submitted to **_Double Blind Review Journal_**.
 - T. Hu, **Z. Mo**, Z. Zhang<sup>*</sup>, “Neural ODE Powered Model for Bearing 
   Remaining Useful Life Predictions with Intra- and Inter-domain 
   Shifts,” submitted to **_Advanced Engineering Informatics_**.

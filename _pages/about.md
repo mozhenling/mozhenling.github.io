@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-last_modified_at: 20 Sep 2024
+last_modified_at: 25 Sep 2024
 ---
 <span class='anchor' id='about-me'></span>
 
@@ -27,8 +27,6 @@ last_modified_at: 20 Sep 2024
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
-
-{% include_relative includes/download.md %}
 
 {% include_relative includes/visitors.md %}
 
