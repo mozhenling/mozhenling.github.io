@@ -24,8 +24,5 @@ main:
   - title: "Others"
     url: "/#-others"
 
-  - title: "Download CV"
-    url: "/#-others"
-
   - title: "Visitors"
-    url: "/#-others"
+    url: "/#-visitors"
