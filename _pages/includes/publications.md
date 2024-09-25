@@ -6,21 +6,6 @@ More papers are shown on [my Google Scholar](https://scholar.google.com/citation
 The **Boldface&Upright text** indicates me, 
 while the superscript * indicates corresponding author(s).
 
-#### Under Review
-- **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, and K.-L. Tsui, “Lifeisgood: Learning Invariant Features via In-Label Swapping for
-  Generalizing Out-of-Distribution in Machine Fault Diagnosis,” submitted to **_IEEE Transactions on 
-  Cybernetics_**.
-- **Z. Mo**, Z. Zhang<sup>*</sup>, Q. Miao and K. -L. Tsui, " Extended Invariant Risk 
-   Minimization for Noisy Label Domain Generalization in Fault Diagnosis", submitted 
-   to  **_IEEE Transactions on Neural Networks and Learning Systems_**.
-- **Z. Mo**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "When Will Empirical Risk Minimization Succeed
-   at Domain Generalization? A Study from Causal View", submitted 
-   to  **_IEEE Transactions on Multimedia_**.
-- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “xxx,” submitted to **_Double Blind Review Journal_**.
-- T. Hu, **Z. Mo**, Z. Zhang<sup>*</sup>, “Neural ODE Powered Model for Bearing 
-  Remaining Useful Life Predictions with Intra- and Inter-domain 
-  Shifts,” submitted to **_Advanced Engineering Informatics_**.
-
 #### Peer Reviewed
 - **Z. Mo**, Z. Zhang<sup>*</sup>, Q. Miao and K. -L. Tsui, "Sparsity-Constrained Invariant Risk
    Minimization for Domain Generalization With Application to Machinery Fault 
