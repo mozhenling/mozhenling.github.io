@@ -7,7 +7,7 @@ and [Prof. Kwok Leung TSUI](https://www.ise.vt.edu/people/faculty/tsui.html)
 .
 
 Prior to studying at CityUHK, I was supervised by 
-[Prof. Qiang MIAO](https://ee.scu.edu.cn/info/1044/6795.htm) 
+[Prof. Qiang MIAO](https://ee.scu.edu.cn/info/1044/10905.htm) 
 and received the M.Eng. degree from the
 [School of Aeronautics and Astronautics](http://saa.scu.edu.cn/en/index.htm), 
 [Sichuan University (SCU)](https://en.scu.edu.cn/), Sichuan,
