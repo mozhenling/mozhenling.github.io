@@ -7,6 +7,9 @@ The **Boldface&Upright text** indicates me,
 while the superscript * indicates corresponding author(s).
 
 #### Peer Reviewed
+- **Z. Mo**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "Domain Generalization Study of Empirical 
+   Risk Minimization from Causal Perspectives," in **IEEE Transactions on Multimedia**, 
+   (Accepted, |[Preprint](https://www.researchgate.net/publication/385903122_Domain_Generalization_Study_of_Empirical_Risk_Minimization_from_Causal_Perspectives#fullTextFileContent)|).
 - **Z. Mo**, Z. Zhang<sup>*</sup>, Q. Miao and K. -L. Tsui, "Sparsity-Constrained Invariant Risk
    Minimization for Domain Generalization With Application to Machinery Fault 
    Diagnosis Modeling," in **IEEE Transactions on Cybernetics**, 
@@ -18,10 +21,6 @@ while the superscript * indicates corresponding author(s).
    Frequency Band Searching Assisted by a Dynamic Bandit Tree Method 
    for Machine Fault Diagnosis," in **IEEE/ASME Transactions on Mechatronics**, 
    2022, doi: 10.1109/TMECH.2022.3206435.
-- **Z. Mo**, Z. Zhang<sup>*</sup> and K. -L. Tsui, "The Variational Kernel-Based 1-D Convolutional
-  Neural Network for Machinery Fault Diagnosis," in **IEEE Transactions on 
-  Instrumentation and Measurement**, vol. 70, pp. 1-10, 2021, Art no. 3523210, 
-  doi: 10.1109/TIM.2021.3105252.
 - T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “A Life-Stage Domain Aware Network for Bearing 
   Health Prognosis under Unseen Temporal Distribution Shift,” **_IEEE Transactions
   on Instrumentation and Measurement_**, vol. 73, pp. 1–12, 2024.
