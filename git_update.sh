@@ -11,7 +11,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'add TMM paper'
+git commit . -m 'update bio'
 
 git push origin master
 
