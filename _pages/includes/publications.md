@@ -9,11 +9,11 @@ while the superscript * indicates corresponding author(s).
 #### Peer Reviewed
 - **Z. Mo**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "Domain Generalization Study of Empirical 
    Risk Minimization from Causal Perspectives," in **IEEE Transactions on Multimedia**, 
-   (Accepted, |[Preprint](https://www.researchgate.net/publication/385903122_Domain_Generalization_Study_of_Empirical_Risk_Minimization_from_Causal_Perspectives#fullTextFileContent)|).
+   ( Accepted, |[Preprint](https://www.researchgate.net/publication/385903122_Domain_Generalization_Study_of_Empirical_Risk_Minimization_from_Causal_Perspectives#fullTextFileContent)| ).
 - **Z. Mo**, Z. Zhang<sup>*</sup>, Q. Miao and K. -L. Tsui, "Sparsity-Constrained Invariant Risk
    Minimization for Domain Generalization With Application to Machinery Fault 
    Diagnosis Modeling," in **IEEE Transactions on Cybernetics**, 
-   vol. 54, no. 3, pp. 1547–1559, 2024. 
+   vol. 54, no. 3, pp. 1547–1559, 2024. ( |[Talk](https://www.bilibili.com/video/BV1fd4y1b77i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=7ec78d4a4fb9dcc467238e0b1dcb2ca9)| )
 - **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup> and K. -L. Tsui, "Distance Aware Risk Minimization for Domain 
   Generalization in Machine Fault Diagnosis," in **_IEEE Internet of Things Journal_**, 
   doi: 10.1109/JIOT.2024.3441253.
