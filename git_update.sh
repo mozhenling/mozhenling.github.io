@@ -11,7 +11,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update talk'
+git commit . -m 'update pub'
 
 git push origin master
 
