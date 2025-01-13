@@ -7,6 +7,10 @@ The **Boldface&Upright text** indicates me,
 while the superscript * indicates corresponding author(s).
 
 #### Peer Reviewed
+- **Z. Mo**, Z. Zhang<sup>*</sup>, Qiang Miao, and K. -L. Tsui, "Extended Invariant Risk 
+   Minimization for Machine Fault Diagnosis with Label Noise and Data Shift," in **_IEEE Transactions 
+   on Neural Networks and Learning Systems_**, 
+   ( Accepted, |[Preprint](https://www.researchgate.net/publication/387962408_Extended_Invariant_Risk_Minimization_for_Machine_Fault_Diagnosis_with_Label_Noise_and_Data_Shift#fullTextFileContent)| ).
 - **Z. Mo**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "Domain Generalization Study of Empirical 
    Risk Minimization from Causal Perspectives," in **_IEEE Transactions on Multimedia_**, 
    ( Accepted, |[Preprint](https://www.researchgate.net/publication/385903122_Domain_Generalization_Study_of_Empirical_Risk_Minimization_from_Causal_Perspectives#fullTextFileContent)| ).
