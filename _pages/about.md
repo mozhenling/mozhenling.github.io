@@ -24,7 +24,7 @@ last_modified_at: 17 Feb 2025
 
 {% include_relative includes/teaching.md %}
 
-{% include_relative includes/honers.md %}
+{% include_relative includes/honors.md %}
 
 {% include_relative includes/others.md %}
 
