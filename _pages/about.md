@@ -20,7 +20,7 @@ last_modified_at: 17 Feb 2025
 
 {% include_relative includes/educations.md %}
 
-{% include_relative includes/employments.md %}
+{% include_relative includes/workexperience.md %}
 
 {% include_relative includes/teaching.md %}
 
