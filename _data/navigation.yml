@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Employments"
-    url: "/#-employments"
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
   - title: "Publications"
     url: "/#-selected-papers"
