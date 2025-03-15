@@ -23,8 +23,8 @@ while the superscript * indicates corresponding author(s).
    Diagnosis Modeling," in **_IEEE Transactions on Cybernetics_**, 
    vol. 54, no. 3, pp. 1547–1559, 2024 
    (|[Code](https://github.com/mozhenling/doge-lifeisgood/blob/master/algorithms/classes/SCIRM.py)|,
-   |[Talk](https://www.bilibili.com/video/BV1fd4y1b77i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=7ec78d4a4fb9dcc467238e0b1dcb2ca9)| 
-   ||[Preprint](https://www.researchgate.net/publication/365500131_Sparsity-Constrained_Invariant_Risk_Minimization_for_Domain_Generalization_with_Application_to_Machinery_Fault_Diagnosis_Modeling?_sg%5B0%5D=k9pVbfF_OOnLBooo8c9IxlhNMaZp6hw6Sc_Fxhlz5fx4pmCGTjm3eTbmcz4Wv1XZs__rIsjviUEnLBsLT6kSejU-Jj0BTA30RBle-Bq3.s0EesjA7HIIcmV60Qcx3IK_NL8R2XdpiOgGqU1fwzCR3Vh5M9zrczuKHpw6EPkjqKINjR9G3FvOvjsjInjEMcw&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|
+   |[Talk](https://www.bilibili.com/video/BV1fd4y1b77i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=7ec78d4a4fb9dcc467238e0b1dcb2ca9)|, 
+   |[Preprint](https://www.researchgate.net/publication/365500131_Sparsity-Constrained_Invariant_Risk_Minimization_for_Domain_Generalization_with_Application_to_Machinery_Fault_Diagnosis_Modeling?_sg%5B0%5D=k9pVbfF_OOnLBooo8c9IxlhNMaZp6hw6Sc_Fxhlz5fx4pmCGTjm3eTbmcz4Wv1XZs__rIsjviUEnLBsLT6kSejU-Jj0BTA30RBle-Bq3.s0EesjA7HIIcmV60Qcx3IK_NL8R2XdpiOgGqU1fwzCR3Vh5M9zrczuKHpw6EPkjqKINjR9G3FvOvjsjInjEMcw&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|
 ).
 - **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup> and K. -L. Tsui, "Distance Aware Risk Minimization for Domain 
   Generalization in Machine Fault Diagnosis," in **_IEEE Internet of Things Journal_**, 
@@ -37,7 +37,7 @@ while the superscript * indicates corresponding author(s).
    for Machine Fault Diagnosis," in **_IEEE/ASME Transactions on Mechatronics_**, 
    2022, doi: 10.1109/TMECH.2022.3206435 (
   |[Code](https://github.com/mozhenling/dbtree)|, 
-  |[Preprint](https://www.researchgate.net/publication/363469478_Intelligent_Informative_Frequency_Band_Searching_Assisted_by_A_Dynamic_Bandit_Tree_Method_for_Machine_Fault_Diagnosis?_sg%5B0%5D=GWXvbjJ7xv3SlTIQMOVRGNDP_P-gjATIhaNpsJHucsG9kcyMeH6McglZpWMNyyu2kS-eBoow4VI7xtBEaLrb740j5m6FD6mdJTSZVXUh.10OhHx1aHZ8wFjEg2fdnBfG8AXrUQwp8folxaJqwqlNDcPkDpo3VZqOtmjsiU6IvLrWjlmQiAeEvLfR2dvdQaA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|,
+  |[Preprint](https://www.researchgate.net/publication/363469478_Intelligent_Informative_Frequency_Band_Searching_Assisted_by_A_Dynamic_Bandit_Tree_Method_for_Machine_Fault_Diagnosis?_sg%5B0%5D=GWXvbjJ7xv3SlTIQMOVRGNDP_P-gjATIhaNpsJHucsG9kcyMeH6McglZpWMNyyu2kS-eBoow4VI7xtBEaLrb740j5m6FD6mdJTSZVXUh.10OhHx1aHZ8wFjEg2fdnBfG8AXrUQwp8folxaJqwqlNDcPkDpo3VZqOtmjsiU6IvLrWjlmQiAeEvLfR2dvdQaA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|
 ).
 - T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “A Life-Stage Domain Aware Network for Bearing 
   Health Prognosis under Unseen Temporal Distribution Shift,” **_IEEE Transactions
