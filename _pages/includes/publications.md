@@ -30,7 +30,7 @@ while the superscript * indicates corresponding author(s).
   Generalization in Machine Fault Diagnosis," in **_IEEE Internet of Things Journal_**, 
   doi: 10.1109/JIOT.2024.3441253 (
   |[Code](https://github.com/mozhenling/doge-darm)|, 
-  |[Preprint](https://www.researchgate.net/publication/382917575_Distance_Aware_Risk_Minimization_for_Domain_Generalization_in_Machine_Fault_Diagnosis#fullTextFileContent)|,
+  |[Preprint](https://www.researchgate.net/publication/382917575_Distance_Aware_Risk_Minimization_for_Domain_Generalization_in_Machine_Fault_Diagnosis#fullTextFileContent)|
 ).
 - **Z. Mo**, Z. Zhang<sup>*</sup>, Q. Miao and K. -L. Tsui, "Intelligent Informative 
    Frequency Band Searching Assisted by a Dynamic Bandit Tree Method 
