@@ -39,8 +39,11 @@ while the superscript * indicates corresponding author(s).
   |[Code](https://github.com/mozhenling/dbtree)|, 
   |[Preprint](https://www.researchgate.net/publication/363469478_Intelligent_Informative_Frequency_Band_Searching_Assisted_by_A_Dynamic_Bandit_Tree_Method_for_Machine_Fault_Diagnosis?_sg%5B0%5D=GWXvbjJ7xv3SlTIQMOVRGNDP_P-gjATIhaNpsJHucsG9kcyMeH6McglZpWMNyyu2kS-eBoow4VI7xtBEaLrb740j5m6FD6mdJTSZVXUh.10OhHx1aHZ8wFjEg2fdnBfG8AXrUQwp8folxaJqwqlNDcPkDpo3VZqOtmjsiU6IvLrWjlmQiAeEvLfR2dvdQaA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|
 ).
+- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “Multi-task Pointwise Mutual Information Learning for
+  Bearing Remaining Useful Life Cross-Domain Imbalanced Regression,” **_IEEE Internet of Things Journal_**, (Accepted).
+- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “Neural ODE Powered Model for Bearing Remaining 
+  Useful Life Predictions with Intra- and Inter-domain Shifts, **_Advanced Engineering Informatics_**, Volume 64,
+  2025, 103077, ISSN 1474-0346, https://doi.org/10.1016/j.aei.2024.103077.
 - T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “A Life-Stage Domain Aware Network for Bearing 
   Health Prognosis under Unseen Temporal Distribution Shift,” **_IEEE Transactions
   on Instrumentation and Measurement_**, vol. 73, pp. 1–12, 2024.
-- T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “Neural ODE Powered Model for Bearing Remaining 
-  Useful Life Predictions with Intra- and Inter-domain Shifts, **_Advanced Engineering Informatics_**, (Accepted).
