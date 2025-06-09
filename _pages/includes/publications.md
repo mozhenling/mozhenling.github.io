@@ -7,6 +7,10 @@ The **Boldface&Upright text** indicates me,
 while the superscript * indicates corresponding author(s).
 
 #### Peer Reviewed
+- **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, and K. -L. Tsui, "Lifeisgood: Learning Invariant 
+   Features via In-Label Swapping for Generalizing Out-of-Distribution," in **_IEEE Transactions on Cybernetics_**,
+   (Accepted, |[Code](https://github.com/mozhenling/doge-lifeisgood)|, 
+   |[Preprint](https://www.researchgate.net/publication/392518252_Lifeisgood_Learning_Invariant_Features_via_In-Label_Swapping_for_Generalizing_Out-of-Distribution_in_Machine_Fault_Diagnosis#fullTextFileContent)|
 - **Z. Mo**, Z. Zhang<sup>*</sup>, Qiang Miao, and K. -L. Tsui, "Extended Invariant Risk 
    Minimization for Machine Fault Diagnosis with Label Noise and Data Shift," in **_IEEE Transactions 
    on Neural Networks and Learning Systems_**, doi:10.1109/TNNLS.2025.3531214,
