@@ -11,7 +11,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update interests'
+git commit . -m 'update award'
 
 git push origin master
 

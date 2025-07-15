@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2024* **Outstanding Research Thesis Award**, Chow Yei Ching School of Graduate Studies, CityUHK.
 - *2024* **ITF Postdoc. Fellowship**, Research Talent Hub for ITF projects, Hong Kong.
 - *2020* **Postgraduate Studentship**, University Grand Committee, Hong Kong.
 - *2019* **The Second Prize CASC Scholarship**,  China Aerospace Science and Technology Corporation & Sichuan University, China.
