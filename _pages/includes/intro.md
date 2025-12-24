@@ -1,10 +1,8 @@
-Hi, I'm Zhenling, currently a Postdoctoral Fellow working with [Prof. Zijun ZHANG](https://www.cityu.edu.hk/stfprofile/00308048.htm) in the 
+Hi, I'm Zhenling, currently a Research Assistant Professor (RAP) in the 
 [Department of Data Science, College of Computing, City University of Hong Kong (CityUHK)
-](https://www.ds.cityu.edu.hk/). The [College of Computing](https://www.cityu.edu.hk/cc/) was established in Sep. 2024, 
-in part, from the former School of Data Science, where I completed my Ph.D. study in 2024, 
+](https://www.ds.cityu.edu.hk/). The department was formerly known as School of Data Science, where I completed my Ph.D. study in 2024, 
 under the supervision of [Prof. Zijun ZHANG](https://www.cityu.edu.hk/stfprofile/00308048.htm), 
-and [Prof. Kwok Leung TSUI](https://www.ise.vt.edu/people/faculty/tsui.html)
-.
+and [Prof. Kwok Leung TSUI](https://www.ise.vt.edu/people/faculty/tsui.html).
 
 Prior to studying at CityUHK, I was supervised by 
 [Prof. Qiang MIAO](https://ee.scu.edu.cn/info/1044/10905.htm) 

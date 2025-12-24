@@ -11,7 +11,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update news'
+git commit . -m 'update intro'
 
 git push origin master
 
