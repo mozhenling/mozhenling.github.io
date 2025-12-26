@@ -1,6 +1,8 @@
 
 # 💻 Work Experience
-- *09.2024 - Present*, **Postdoctoral Fellow**, Department of Data Science, College of Computing,
+- *12.2025 - present*, **Research Assistant Professor**, Department of Data Science, College of Computing,
+City University of Hong Kong, Hong Kong
+- *09.2024 - 11.2025*, **Postdoctoral Fellow**, Department of Data Science, College of Computing,
 City University of Hong Kong, Hong Kong
 - *03.2024 - 09.2024*, **Postdoctoral Fellow**, School of Data Science, City University of Hong
 Kong, Hong Kong
