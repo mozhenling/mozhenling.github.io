@@ -52,3 +52,6 @@ while the superscript * indicates corresponding author(s).
 - T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “A Life-Stage Domain Aware Network for Bearing 
   Health Prognosis under Unseen Temporal Distribution Shift,” **_IEEE Transactions
   on Instrumentation and Measurement_**, vol. 73, pp. 1–12, 2024.
+- T. Hu, **Z. Mo<sup>*</sup>**, Chengye Zhang,Z. Zhang<sup>*</sup>, ComfortLLM: 
+  Compatible Multi-modality Fusion Oriented Large Language Model for Industrial 
+  Fault Diagnosis with Diverse Data,**_IEEE Internet of Things Journal_** (Accepted)
