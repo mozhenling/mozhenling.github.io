@@ -11,7 +11,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'update pub'
+git commit . -m 'add RGC JRFS'
 
 git push origin master
 
