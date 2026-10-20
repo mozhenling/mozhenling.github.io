@@ -44,6 +44,8 @@ while the superscript * indicates corresponding author(s).
   |[Code](https://github.com/mozhenling/dbtree)|, 
   |[Preprint](https://www.researchgate.net/publication/363469478_Intelligent_Informative_Frequency_Band_Searching_Assisted_by_A_Dynamic_Bandit_Tree_Method_for_Machine_Fault_Diagnosis?_sg%5B0%5D=GWXvbjJ7xv3SlTIQMOVRGNDP_P-gjATIhaNpsJHucsG9kcyMeH6McglZpWMNyyu2kS-eBoow4VI7xtBEaLrb740j5m6FD6mdJTSZVXUh.10OhHx1aHZ8wFjEg2fdnBfG8AXrUQwp8folxaJqwqlNDcPkDpo3VZqOtmjsiU6IvLrWjlmQiAeEvLfR2dvdQaA&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0#fullTextFileContent)|
 ).
+- T. Hu, **Z. Mo<sup>*</sup>**, C. Zhang, Z. Zhang<sup>*</sup>, "FAB: Few-Shot Adversarial Learning Formed Decision Boundary for
+  Industrial Anomaly Detection," **_IEEE Transactions on Reliability_**, vol. 75, pp. 3552-3566, 2026.
 - T. Hu, **Z. Mo<sup>*</sup>**, C. Zhang, Z. Zhang<sup>*</sup>, “ComfortLLM: Compatible Multi-modality Fusion Oriented Large Language Model 
   for Industrial Fault Diagnosis with Diverse Data,” **_IEEE Internet of Things Journal_**, doi: 10.1109/JIOT.2026.3704673.
 - T. Hu, **Z. Mo<sup>*</sup>**, Z. Zhang<sup>*</sup>, “Multi-task Pointwise Mutual Information Learning for
